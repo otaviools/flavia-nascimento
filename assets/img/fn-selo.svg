@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246 294" role="img" aria-labelledby="fn-t">
+  <title id="fn-t">Flavia Nascimento</title>
+  <!-- Selo FN redesenhado em vetor a partir de assets/img/fn-selo.png (mesmas medidas e cores) -->
+  <path fill="#9d7533" d="M4 26C4 20 14 18.5 30 14C55 7 90 0 123 0C156 0 191 7 216 14C232 18.5 242 20 242 26V267C242 273 232 274.5 216 279C191 286 156 293 123 293C90 293 55 286 30 279C14 274.5 4 273 4 267Z"/>
+  <path fill="#050303" d="M47 58H107V81H71V183H107V207H71V236H47Z"/>
+  <path fill="#050303" d="M115 58H139L175 101.5V58H199V236H175V136L138 94.5V236H115Z"/>
+</svg>

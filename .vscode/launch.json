@@ -1,0 +1,20 @@
+{
+    // F5 sobe um servidor local na pasta do site e abre no Edge.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Abrir site (servidor local)",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}/flavia-nascimento",
+            "preLaunchTask": "servidor-site"
+        },
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Abrir index.html direto (sem servidor)",
+            "file": "${workspaceFolder}/flavia-nascimento/index.html"
+        }
+    ]
+}
